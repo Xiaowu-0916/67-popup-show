@@ -3,10 +3,8 @@
 *.tmp
 *.ini
 
-# audio: bring your own copy (copyright)
-audio/
-linux-mac/67.m4a
-linux-mac/*.mp3
+# audio: the bundled clip is for personal entertainment only (see README)
+*.wav
 
 # windows
 Thumbs.db
